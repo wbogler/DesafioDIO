@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .navbar{
 	background: #F9B338;
 	font-size: 20px;
@@ -14,4 +15,22 @@
 	font-size: 20px;
 	font-family: serif;
 	text-align: justify;
+=======
+.navbar{
+	background: #F9B338;
+	font-size: 20px;
+}
+.padNav{
+	margin-left: 10px;
+}
+
+.margem{
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+.texto-quemSomos{
+	font-size: 20px;
+	font-family: serif;
+	text-align: justify;
+>>>>>>> 2f56fca79232b2361aadabbcb66404a40825442d
 }
