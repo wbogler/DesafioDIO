@@ -1,6 +1,5 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
-
+# DynamoBD DIO
+  - Banco de dados noSQL para armazenamento de dados de música.
 ### Serviço utilizado
   - Amazon DynamoDB
   - Amazon CLI para execução em linha de comando
